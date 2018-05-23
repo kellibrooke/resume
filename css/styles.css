@@ -1,23 +1,41 @@
+body{
+  margin-right: 20%;
+  margin-left:20%;
+  font-family: sans-serif;
+}
+
+div {
+  border: solid 2px black;
+  padding: 8% 15%;
+}
+
 .contact{
+  background-color: #80ffbf;
 
 }
 
 .education{
+  background-color: #4dffa6;
 
 }
 
 .name{
+  font-weight: bold;
 
 }
 
 .skills{
-
+  background-color: #1aff8c;
 }
 
 .experience{
-
+  background-color: #00e673;
 }
 
 .workplace{
-  
+border: none;
+}
+
+ul{
+  list-style-position: inside;
 }
